@@ -116,3 +116,13 @@
     - [링크](https://www.chosun.com/economy/auto/2022/01/26/BR5DMS6U5VBZBHJM2DFEUEXAAQ/)
 - 삼성전자는 LCD 가격 하락세에 OLED 기반 TV의 시장 확대를 서두르지 않는 전략적 판단을 내렸다. 대신 ‘초대형’과 ‘8K’ 수요를 모두 잡을 수 있는 ‘네오 QLED’의 대중화에 집중한다.
     - [링크](http://it.chosun.com/site/data/html_dir/2022/01/20/2022012002040.html)
+
+22.01.27
+
+- **[삼성**전자, 지난해 반도체 매출 94조원 세계 1위…인텔에 3조원 앞](https://www.google.com/url?rct=j&sa=t&url=https://biz.chosun.com/it-science/ict/2022/01/27/OUCMLUC2UZEFRMVBS7G7OHCFVM/&ct=ga&cd=CAEYACoUMTQ1Njk1NzA1NjU0ODE0OTAxMjgyHGRjOTdjMzE4ZDdlM2U1MWU6Y28ua3I6a286S1I&usg=AFQjCNF9SwG-5nBw5F6qQ_9o_IE1ZLe-qw)
+- 구글, 신경망 모델을 시각적으로 설명하는 기술, StylEx 공개
+    - 주어진 이미지에 대해 분류기(classifier)가 식별한 분류 결과에 대한 의미 있는 설명을 생성할 수 있는 새로운 기술을 도입
+    - [link](http://www.aitimes.com/news/articleView.html?idxno=142741)
+- "음성·이미지·문자 한 번에" 메타, 일체형 자기학습 알고리즘 'Data2vec' 개발
+- LG전자는 27일 지난해 연간 매출 74조7216억원, 영업이익 3조8638억원의 실적을 거뒀다고 밝혔다. 매출은 전년대비 28.7% 늘어
+    - [link](https://biz.chosun.com/it-science/ict/2022/01/27/VK7KAR75RNAJDNF2AJ422BPBQQ/)
