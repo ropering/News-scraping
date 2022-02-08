@@ -133,3 +133,88 @@
     - <img src="http://cdn.bizwatch.co.kr/news/photo/2021/12/03/ec09802666db26683fb3e63efc703d91.jpg"  height="300" width="300"/>
 - 인터파크 → 야놀자에게 인수
 - 이베이코리아 → 신세계그룹에게 인수
+
+## 22.02.08
+
+[I Met a Rich Programmer, He Gave Me 3 Life-Changing Pieces of Advice](https://javascript.plainenglish.io/i-met-a-rich-programmer-he-gave-me-3-life-changing-pieces-of-advice-a3754d73a50c)
+
+1. Stay Consistent
+    - Consistency is the key to unlocking your true potential.
+2. Never quit your job
+    - If you can’t check any of the points from the checklist then just stick to your current job
+        - You have a new job in your hand
+        - Your Side Hustle is making more money than your salary
+        - Your Startup has reached a noticeable market capitalization
+        - Your Social Media Account has more than 50k+ followers
+3. Stay friendly, Stay humble
+    - you should respond only with “*I would love to explain this”*
+    - Staying friendly in your workplace is the most important thing for a programmer and no matter in which position you are you must *[be a good listener](https://javascript.plainenglish.io/3-traits-of-silent-programmers-which-makes-them-unique-17c53e7c9d88)* and listen to your teammate's opinions.
+    - Actively supporting your teammate's achievements and congratulating them for their accomplishments is a very good sign of a professional programmer.
+    - Even if you are planning to lead a team, staying friends will be the key aspect on which you should focus.
+- Content
+    
+    I simply asked him after discussing the project, “Is there any advice that you would give me for my programming journey?”
+    
+    He was humble enough to give me a few different pieces of advice about the different sectors of my life.
+    
+    ## 1. Stay Consistent
+    
+    Hardworking and Consistent programmers always win no matter who their competition is. Stay consistent and stay focused.
+    
+    No matter what skill you are learning or which programming language you are mastering, stay consistent.
+    
+    Not only in your professional life but also in your personal life consistency plays an important role in your life. Consistency is the key to unlocking your true potential.
+    
+    Even
+     if you are starting a side hustle, or want to get the most out of your 
+    new relationship just stay consistent. For achieving your fitness goal, 
+    consistency will make you the winner.
+    
+    # 2. Never Quit Your Job
+    
+    You
+     have seen one of your friends making tons of money from his side hustle
+     and he has quit his job just because his side hustle is a great passive
+     income stream for him.
+    
+    What
+     are your takes on this? Quit your job and start a side hustle, Quit 
+    your Job and start a successful start-up. The answer is NO, never quit 
+    your job.
+    
+    Even if you are willing to quit your job just have a few checks on your important work checklist —
+    
+    - You have a new job in your hand
+    - Your Side Hustle is making more money than your salary
+    - Your Startup has reached a noticeable market capitalization
+    - Your Social Media Account has more than 50k+ followers
+    
+    If you can’t check any of the points from the checklist then just *stick to your current job* until you achieve any of the checkpoints even if you are having a constant urge to quit your job.
+    
+    Work
+     in your free time to build your passive income stream, weekends are 
+    best for that. Don’t just quit your job to start a passive income 
+    stream.
+    
+    # 3. Stay Friendly, Stay Humble
+    
+    Whenever
+     your teammates ask you to explain something related to the project or 
+    something about new tech that you're using then you should respond only 
+    with “*I would love to explain this*”.
+    
+    Staying friendly in your workplace is the most important thing for a programmer and no matter in which position you are you must *[be a good listener](https://javascript.plainenglish.io/3-traits-of-silent-programmers-which-makes-them-unique-17c53e7c9d88)* and listen to your teammate's opinions.
+    
+    Actively
+     supporting your teammate's achievements and congratulating them for 
+    their accomplishments is a very good sign of a professional programmer.
+    
+    Even if you are planning to lead a team, staying friends will be the key aspect on which you should focus.
+    
+
+[A Senior Engineer at Google Reveals "The Best Programming Language To Learn in 2022"](https://betterprogramming.pub/the-best-programming-language-to-learn-in-2022-senior-engineer-at-google-explains-5abcbc5f6556)
+
+- I recommend “**no specific one”**
+    - It doesn’t matter if you start with C++ or Java or Python or Javascript or any other language for that matter. Learning a new language doesn’t take long and it shouldn’t be a #1 priority either.
+- **Wait…Then What Do We Focus On?**
+    - In the end, it’d all feel the same, so go ahead and focus on learning new technologies, try to dig deeper into concepts that look like magic, in the beginning, try to explore many different genres until it all starts to look the same. Eventually, pick something that you really like and go deep!
